@@ -1,2 +1,6 @@
-# JS_task_final
-JavaScriptの期末課題
+# JavaScript期末課題
+### 割り勘アプリ
+
+# 実装機能
+ - 仮置き
+ - 仮置き２
